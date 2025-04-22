@@ -7,6 +7,6 @@ Code to support dissertation labs.
 
 The CIM RSEs
 
-## Issues, Bugs, and Feautures
+## Issues, Bugs, and Features
 
-Please do drop these into the issue queue or email us. 
+Please do drop these into the issue queue or raise it in the forum. 
