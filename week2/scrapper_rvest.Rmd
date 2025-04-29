@@ -22,13 +22,6 @@ url <- "https://www.imdb.com/title/tt31806037/reviews/?ref_=tt_ururv_sm"
 html <- read_html(url)
 ```
 
-## Scrapping a list of references
-
-```{r}
-references_list <- html |> 
-  html_nodes() |> 
-```
-
 ## Scrapping all the reviews
 
 The generic code to scrape a table using rvest is as follows
